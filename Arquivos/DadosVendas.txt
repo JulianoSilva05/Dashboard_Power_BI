@@ -1,0 +1,34 @@
+﻿Código Loja;Loja;Código Produto;Descrição Produto;Matricula;Nome Vendedor;Data Venda;Preço Unitário;Quantidade;Valor venda
+LOJA01;Matriz;10001;Smartphone;123456111;José Maria;19/10/2019;1500;1;1500
+LOJA01;Matriz;10001;Smartphone;123456111;José Maria;16/11/2019;1500;2;3000
+LOJA01;Matriz;10002;Tablet;123456333;Jorge Mateus;20/02/2019;1000;2;2000
+LOJA01;Matriz;10002;Tablet;123456333;Jorge Mateus;03/06/2019;1000;3;3000
+LOJA01;Matriz;10003;Tevelisão;123456333;Jorge Mateus;01/02/2019;3500;3;10500
+LOJA01;Matriz;10004;Máquina Lavar Roupa;123456222;Maria das Graças;30/05/2019;2400;1;2400
+LOJA01;Matriz;10005;Notebook;123456222;Maria das Graças;29/10/2019;3000;3;9000
+LOJA01;Matriz;10005;Notebook;123456222;Maria das Graças;24/11/2019;3000;2;6000
+LOJA01;Matriz;10007;Batedeira;123456222;Maria das Graças;14/05/2019;200;1;200
+LOJA01;Matriz;10008;Cafeteira;123456222;Maria das Graças;05/07/2019;240;1;240
+LOJA01;Matriz;10010;Fritadeira elétrica;123456222;Maria das Graças;03/03/2019;250;1;250
+LOJA01;Matriz;10010;Fritadeira elétrica;123456222;Maria das Graças;06/03/2019;250;2;500
+LOJA01;Matriz;10011;Liqidificado;123456111;José Maria;07/08/2019;80;1;80
+LOJA01;Matriz;10011;Liqidificado;123456111;José Maria;06/10/2019;80;3;240
+LOJA01;Matriz;10012;Processador de alimentos;123456222;Maria das Graças;11/05/2019;180;1;180
+LOJA01;Matriz;10012;Processador de alimentos;123456333;Jorge Mateus;21/12/2019;180;2;360
+LOJA01;Matriz;10013;Fogão;123456111;José Maria;28/02/2019;600;3;1800
+LOJA01;Matriz;10013;Fogão;123456222;Maria das Graças;19/02/2019;600;3;1800
+LOJA01;Matriz;10013;Fogão;123456333;Jorge Mateus;02/08/2019;600;2;1200
+LOJA01;Matriz;10014;Geladeira;123456222;Maria das Graças;26/04/2019;1200;1;1200
+LOJA01;Matriz;10014;Geladeira;123456222;Maria das Graças;11/06/2019;1200;3;3600
+LOJA01;Matriz;10014;Geladeira;123456222;Maria das Graças;16/11/2019;1200;3;3600
+LOJA01;Matriz;10016;Guarda Roupa;123456111;José Maria;02/01/2019;1500;2;3000
+LOJA01;Matriz;10016;Guarda Roupa;123456111;José Maria;24/03/2019;1500;3;4500
+LOJA01;Matriz;10016;Guarda Roupa;123456111;José Maria;17/08/2019;1500;2;3000
+LOJA01;Matriz;10016;Guarda Roupa;123456111;José Maria;11/10/2019;1500;1;1500
+LOJA01;Matriz;10016;Guarda Roupa;123456333;Jorge Mateus;24/01/2019;1500;1;1500
+LOJA01;Matriz;10017;Cama Box;123456333;Jorge Mateus;16/09/2019;2800;1;2800
+LOJA01;Matriz;10018;Colchão;123456111;José Maria;22/12/2019;310;2;620
+LOJA01;Matriz;10018;Colchão;123456333;Jorge Mateus;13/04/2019;310;3;930
+LOJA01;Matriz;10018;Colchão;123456333;Jorge Mateus;10/09/2019;310;3;930
+LOJA01;Matriz;10020;Impressora;123456111;José Maria;05/08/2019;600;3;1800
+LOJA01;Matriz;10020;Impressora;123456333;Jorge Mateus;27/01/2019;600;3;1800
